@@ -163,7 +163,7 @@ for (var i=0;i<currencies.length;i++){
   document.getElementById("currency-one").innerHTML+="<option value=\""+currencies[i]+"\">"+currencies[i]+"</option>";
   if(currencies[i]=="EUR"){
   document.getElementById("currency-two").innerHTML+="<option value=\""+currencies[i]+"\" selected>"+currencies[i]+"</option>";
-}
+ }
   else{
   document.getElementById("currency-two").innerHTML+="<option value=\""+currencies[i]+"\">"+currencies[i]+"</option>";
   }
