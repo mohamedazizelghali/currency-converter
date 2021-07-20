@@ -1,5 +1,5 @@
 var currencies=[
-  "USD",
+"USD",
 "AED",
 "AFN",
 "ALL",
