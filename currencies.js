@@ -1,5 +1,4 @@
-var currencies=[
-"USD",
+var currencies=["USD",
 "AED",
 "AFN",
 "ALL",
